@@ -1,7 +1,8 @@
 {
   "name": "shyuan-marketplace",
   "owner": {
-    "name": "Chris Yuan"
+    "name": "Chris Yuan",
+    "email": "chris.yuan@0x0.tw"
   },
   "metadata": {
     "description": "Curated Claude Code plugins by shyuan",
