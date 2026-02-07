@@ -1,0 +1,21 @@
+{
+  "name": "shyuan-marketplace",
+  "owner": {
+    "name": "Chris Yuan"
+  },
+  "metadata": {
+    "description": "Curated Claude Code plugins by shyuan",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ghostty-config",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shyuan/ghostty-config-plugin.git"
+      },
+      "description": "Manage Ghostty terminal config with AI-powered tools and domain knowledge",
+      "version": "1.0.0"
+    }
+  ]
+}
