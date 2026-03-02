@@ -28,6 +28,23 @@ Add this marketplace to Claude Code:
 
 **Repository:** https://github.com/shyuan/ghostty-config-plugin
 
+### Writing Humanizer
+
+**Description:** Remove AI writing patterns from text, making it sound more natural and human. Focused on Traditional Chinese (Taiwan).
+
+**Install:**
+```bash
+/plugin install writing-humanizer@shyuan-marketplace
+```
+
+**What you get:**
+- `writing-humanizer` skill that detects and rewrites 24 categories of AI writing patterns
+- AI vocabulary watchlist with suggested replacements for Traditional Chinese
+- Two-pass rewriting process with self-audit
+- Quality scoring system (50 points)
+
+**Repository:** https://github.com/shyuan/writing-humanizer
+
 ## License
 
 MIT
@@ -63,6 +80,23 @@ MIT
 - 修改選項、切換主題/字型、設定快捷鍵的標準操作流程
 
 **原始碼：** https://github.com/shyuan/ghostty-config-plugin
+
+### Writing Humanizer
+
+**說明：** 去除文章中的 AI 寫作痕跡，使文字更自然、更有人味。以台灣正體中文為主。
+
+**安裝：**
+```bash
+/plugin install writing-humanizer@shyuan-marketplace
+```
+
+**安裝後你會得到：**
+- `writing-humanizer` skill，可偵測並改寫 24 類 AI 寫作模式
+- 台灣正體中文 AI 詞彙警示列表與替代建議
+- 兩輪改寫流程（初稿 + 自我審查再修改）
+- 質量評分系統（滿分 50 分）
+
+**原始碼：** https://github.com/shyuan/writing-humanizer
 
 ## 授權條款
 

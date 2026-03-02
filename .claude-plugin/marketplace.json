@@ -17,6 +17,15 @@
       },
       "description": "Manage Ghostty terminal config with AI-powered tools and domain knowledge",
       "version": "1.0.0"
+    },
+    {
+      "name": "writing-humanizer",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shyuan/writing-humanizer.git"
+      },
+      "description": "去除文章中的 AI 寫作痕跡，使文字更自然、更有人味。以台灣正體中文為主。",
+      "version": "1.0.0"
     }
   ]
 }
