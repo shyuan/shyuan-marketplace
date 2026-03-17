@@ -35,6 +35,15 @@
       },
       "description": "基於 Pixar 22 條說故事法則的創作輔助技能。適用於故事創作、小說寫作、劇本構思、角色設計、narrative 設計。",
       "version": "1.0.0"
+    },
+    {
+      "name": "skill-jedi",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shyuan/skill-jedi.git"
+      },
+      "description": "Design patterns and architecture guide for building effective Claude Code skills and plugins.",
+      "version": "1.0.0"
     }
   ]
 }
