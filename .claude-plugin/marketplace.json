@@ -43,7 +43,7 @@
         "url": "https://github.com/shyuan/skill-jedi.git"
       },
       "description": "Design patterns and architecture guide for building effective Claude Code skills and plugins.",
-      "version": "1.1.2"
+      "version": "1.1.3"
     }
   ]
 }
